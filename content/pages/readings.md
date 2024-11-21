@@ -75,7 +75,7 @@ Class 9 and 10: The U.S. Military
 
 *Optional* *(but highly recommended)*
 
-- Risa Brooks, [“Paradoxes of Professionalism: Rethinking Civil-Military Relations in the United States” (PDF)](https://www.belfercenter.org/sites/default/files/files/publication/isec_a_00374_0.pdf), *International Security* 44, no 4. (2020): 7–44.
+- Risa Brooks, “[Paradoxes of Professionalism: Rethinking Civil-Military Relations in the United States](https://direct.mit.edu/isec/article/44/4/7/12253/Paradoxes-of-Professionalism-Rethinking-Civil),” *International Security* 44, no 4. (2020): 7–44.
 
 Class 11: Focus Area #1 – Responding to the Rise of China
 
@@ -187,7 +187,7 @@ Class 25: Focus Area #7 – The Crisis in Haiti
 
 Class 26: The National Security Budget
 
-- \[G\] Gordon Adams, Rodney Bent, and Kathleen Peroff, “The Office of Management and Budget: The                
+- \[G\] Gordon Adams, Rodney Bent, and Kathleen Peroff, “The Office of Management and Budget: The                  
     President's Policy Tool,” 57–80.
 - Michael O’ Hanlon, *The Science of War* (Princeton, NJ: Princeton University Press, 2009), 8–47. ISBN: ‎9780691137025. \[Preview with [Google Books](https://www.google.com/books/edition/The_Science_of_War/GGmYDwAAQBAJ?hl=en&gbpv=1)\]
 
