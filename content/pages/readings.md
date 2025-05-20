@@ -57,7 +57,7 @@ Class 6: The Courts
 
 Class 7 and 8: The Interagency Process and National Security Decision-Making
 
-- [National Security Memorandum 2: Renewing the National Security Council System](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/memorandum-renewing-the-national-security-council-system/), February 4, 2021.
+- [National Security Memorandum 2: Renewing the National Security Council System](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/04/memorandum-renewing-the-national-security-council-system/), February 4, 2021.
 - \[G\] Jon J. Rosenwasser and Michael Werner, “History of the Interagency Process for Foreign Relations in the United States: Murphy's Law?,” 13–31. \[Preview with [Google Books](https://www.google.com/books/edition/The_National_Security_Enterprise/6tgoDwAAQBAJ?hl=en&gbpv=1)\]
 - \[G\] David P. Auerswald, “The Evolution of the NSC Process,” 32–56. 
 - Neil Snyder, “[National Security in Presidential Time: The Politics of the National Security Council](https://onlinelibrary.wiley.com/doi/abs/10.1111/psq.12849),” *Presidential Studies Quarterly* 53, no. 4 (2023): 517–42.
@@ -81,7 +81,7 @@ Class 11: Focus Area #1 – Responding to the Rise of China
 
 - Zhen Han and T. V. Paul, “[China’s Rise and Balance of Power Politics](https://academic.oup.com/cjip/article/13/1/1/5739306),” *Chinese Journal of International Politics* 13, no. 1 (2020): 1–26.
 - M. Taylor Fravel, [“China’s “World-Class” Military Ambitions: Origins and Implications” (PDF),](https://www.taylorfravel.com/documents/research/fravel.2020.TWQ.china.world.class.military.pdf) *Washington Quarterly* 43 no. 1 (2020): 85–99.
-- Anthony Blinken, [The Administration’s Approach to the People’s Republic of China](https://www.state.gov/the-administrations-approach-to-the-peoples-republic-of-china/), 26 May 2022.
+- Anthony Blinken, [The Administration’s Approach to the People’s Republic of China](https://au.usembassy.gov/secretary-blinken-speech-the-administrations-approach-to-the-peoples-republic-of-china/), 26 May 2022.
 - “[Joe Biden’s China Strategy is Not Working](https://www.economist.com/leaders/2023/08/10/joe-bidens-china-strategy-is-not-working),” *The Economist*, 10 August 2023.
 - Fareed Zakaria, “[Biden’s Course Correction on China is Smart and Important](https://www.washingtonpost.com/opinions/2023/04/21/biden-china-trade-policy-caution/),” *Washington Post*, 21 April 2023.
 
@@ -187,7 +187,7 @@ Class 25: Focus Area #7 – The Crisis in Haiti
 
 Class 26: The National Security Budget
 
-- \[G\] Gordon Adams, Rodney Bent, and Kathleen Peroff, “The Office of Management and Budget: The                  
+- \[G\] Gordon Adams, Rodney Bent, and Kathleen Peroff, “The Office of Management and Budget: The                    
     President's Policy Tool,” 57–80.
 - Michael O’ Hanlon, *The Science of War* (Princeton, NJ: Princeton University Press, 2009), 8–47. ISBN: ‎9780691137025. \[Preview with [Google Books](https://www.google.com/books/edition/The_Science_of_War/GGmYDwAAQBAJ?hl=en&gbpv=1)\]
 
