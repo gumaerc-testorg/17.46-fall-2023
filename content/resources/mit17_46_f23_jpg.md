@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/17-46-u-s-national-security-policy-fall-2023/mit17_46_f23.jpg
+file: courses/us-national-security-policy/mit17_46_f23.jpg
 file_size: 167562
 file_type: image/jpeg
 image_metadata:
