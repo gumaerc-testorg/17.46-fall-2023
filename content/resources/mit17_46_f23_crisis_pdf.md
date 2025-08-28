@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/us-national-security-policy/mit17_46_f23_crisis.pdf
+file: /ol-ocw-studio-app/courses/17-46-u-s-national-security-policy-fall-2023/mit17_46_f23_crisis.pdf
 file_size: 173002
 file_type: application/pdf
 image_metadata:
