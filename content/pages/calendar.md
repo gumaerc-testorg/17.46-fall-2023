@@ -60,7 +60,7 @@ Class 16: Focus Area #3 – The U.S. Response to Russia’s War in Ukraine
 
 Class 17: Focus Area #4 – The War in Afghanistan
 
-- *Guest Speaker,* [*Dr. Theo Milonopoulos, U.S. Naval War College*](https://usnwc.edu/Faculty-and-Departments/Directory/Theo-Milonopoulos)
+- *Guest Speaker,* {{% resource_link "cf400024-06cf-404f-b9d9-99e4ebd39e39" "*Dr. Theo Milonopoulos, U.S. Naval War College*" %}}
 
 Class 18: Sanctions, Tariffs, and Economic Statecraft
 

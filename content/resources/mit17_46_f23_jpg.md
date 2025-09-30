@@ -9,7 +9,8 @@ image_metadata:
   caption: "On June 13, 2024, President Joe Biden of the United States and President\
     \ Volodymyr Zelenskyy of Ukraine signed the U.S.-Ukraine Bilateral Security Agreement,\
     \ a historic show of support for Ukraine\u2019s long-term security. (Image courtesy\
-    \ of the White House. This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Joe_Biden_and_President_Volodymyr_Zelenskyy_shake_hands_during_a_joint_press_conference.jpg).)"
+    \ of the White House. This image is in the public domain. Source: {{% resource_link\
+    \ \"826d34dc-2b26-4530-ae55-e9ddec078b6a\" \"Wikimedia Commons\" %}}.)"
   credit: ''
   image-alt: President Zelenskyy of Ukraine and President Biden of the United States
     shake hands.

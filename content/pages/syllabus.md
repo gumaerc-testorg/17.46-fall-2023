@@ -30,17 +30,17 @@ Although opinions on the topics covered in the course may differ, mutual respect
 
 *Academic Integrity*
 
-All students will uphold the highest standards of academic integrity. Presenting the work of others (e.g., ideas, specific phrases, etc.) as your own is considered plagiarism, and will not be tolerated. Moreover, the use of any generative AI is not permitted in this course. Any violations will be handled according to MIT policies, which are outlined at [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/). The [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) website has helpful tips on how to avoid plagiarism.
+All students will uphold the highest standards of academic integrity. Presenting the work of others (e.g., ideas, specific phrases, etc.) as your own is considered plagiarism, and will not be tolerated. Moreover, the use of any generative AI is not permitted in this course. Any violations will be handled according to MIT policies, which are outlined at {{% resource_link "95255ca7-cc89-46ec-8a6e-af3cb99a5b2f" "Academic Integrity at MIT: A Handbook for Students" %}}. The {{% resource_link "ccc7bfa1-bb55-4a28-ab49-4e65ff6ed51f" "MIT Writing and Communication Center" %}} website has helpful tips on how to avoid plagiarism.
 
 *Writing*
 
-The [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) offers free one-on-one professional advice from communication experts. No matter what department or discipline you are in, the WCC helps you think more deeply into your topic, and helps you see new implications in your data, research, and ideas. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice.
+The {{% resource_link "ccc7bfa1-bb55-4a28-ab49-4e65ff6ed51f" "MIT Writing and Communication Center" %}} offers free one-on-one professional advice from communication experts. No matter what department or discipline you are in, the WCC helps you think more deeply into your topic, and helps you see new implications in your data, research, and ideas. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice.
 
 ## Readings
 
 One book is required for this course.
 
-Roger Z. George and Harvey Rishikof, editors, *The National Security Enterprise: Navigating the Labyrinth*, 2nd edition (Washington, D.C.: Georgetown University Press, 2017). ISBN: ‎9781626164406. \[Preview with [Google Books](https://www.google.com/books/edition/The_National_Security_Enterprise/6tgoDwAAQBAJ?hl=en&gbpv=1)\] 
+Roger Z. George and Harvey Rishikof, editors, *The National Security Enterprise: Navigating the Labyrinth*, 2nd edition (Washington, D.C.: Georgetown University Press, 2017). ISBN: ‎9781626164406. \[Preview with {{% resource_link "476792af-4d4f-49b6-a5db-1b949dc5ff8e" "Google Books" %}}\] 
 
 For other readings, see the {{% resource_link "5d1293d8-efc1-4554-9d8e-ca2492544a0d" "Readings" %}} section.
 

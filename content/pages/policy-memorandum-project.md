@@ -5,7 +5,7 @@ draft: false
 title: Policy Memorandum Project
 uid: 8b574ab4-2b3a-4193-9a9b-f6873085059d
 ---
-For this project you will take on the role of government officials and write policy memorandums to President Biden following a hypothetical attack on U.S. citizens in Afghanistan. The memorandums should be similar in format to John Yoo’s “[The President’s Constitutional Authority to Conduct Military Operations Against Terrorists and Nation’s](https://irp.fas.org/agency/doj/olc092501.html) [Supporting Them](https://irp.fas.org/agency/doj/olc092501.html)” or [Harold Koh’s written testimony on Libya (PDF)](https://2009-2017.state.gov/documents/organization/167452.pdf), but need not be nearly as long.
+For this project you will take on the role of government officials and write policy memorandums to President Biden following a hypothetical attack on U.S. citizens in Afghanistan. The memorandums should be similar in format to John Yoo’s “{{% resource_link "0d611b1a-71af-4f85-b80f-7d75c1903d71" "The President’s Constitutional Authority to Conduct Military Operations Against Terrorists and Nation’s" %}} {{% resource_link "0d611b1a-71af-4f85-b80f-7d75c1903d71" "Supporting Them" %}}” or {{% resource_link "db46f00a-3387-4b08-8944-cd6866db791e" "Harold Koh’s written testimony on Libya (PDF)" %}}, but need not be nearly as long.
 
 When writing, please take on the position and tone of the organization you are representing.
 
